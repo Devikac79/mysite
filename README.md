@@ -13,3 +13,7 @@
 5.Install Requirements Package  pip install -r requirements.txt`
 
 6.Finally Run The Project `python manage.py runserver`
+
+##Tools & Technologies Used:
+
+`python` `django` `sqlite` `html` `css` `bootstrap` `github`
