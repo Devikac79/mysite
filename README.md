@@ -14,6 +14,6 @@
 
 6.Finally Run The Project `python manage.py runserver`
 
-##Tools & Technologies Used:
+## Tools & Technologies Used:
 
 `python` `django` `sqlite` `html` `css` `bootstrap` `github`
